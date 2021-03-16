@@ -8,3 +8,9 @@ Install Unity, open in Unity Hub.
 
 ### Lessons Learned:
 Revision of Unity/C# Basics. 
+
+### Done:
+Intro Scene
+Scenes switch.
+Calculator with problem report. 
+Color switch.
