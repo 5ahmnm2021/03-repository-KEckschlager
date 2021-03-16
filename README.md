@@ -10,7 +10,7 @@ Install Unity, open in Unity Hub.
 Revision of Unity/C# Basics. 
 
 ### Done:
-Intro Scene
+Intro Scene.
 Scenes switch.
 Calculator with problem report. 
 Color switch.
